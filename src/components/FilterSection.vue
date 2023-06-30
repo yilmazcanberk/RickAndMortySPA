@@ -98,4 +98,17 @@ const searchClicked = () => {
     color: white;
   }
 }
+.search-container {
+  border: 1px solid black;
+  input {
+    color: black;
+    height: 1.5rem;
+  }
+  button {
+    color: black;
+    height: 1.5rem;
+    padding: 0rem 0.5rem;
+    font-weight: 500;
+  }
+}
 </style>
